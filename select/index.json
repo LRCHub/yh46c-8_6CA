@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Ray",
+  "base_artist": "TOC",
+  "createdAt": "2026-02-12T11:53:10.074478Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Guitar Hero [Feat. East Bay Ray]",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/01_Guitar_Hero_[Feat._East_Bay_Ray]_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Old Town Road (feat. Billy Ray Cyrus) [Remix]",
+      "artist": "Lil Nas X feat. Billy Ray Cyrus",
+      "has_synced": true,
+      "path": "select/02_Old_Town_Road_(feat._Billy_Ray_Cyrus)_[Remix]_Lil_Nas_X_feat._Billy_Ray_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seven Spanish Angels (with Ray Charles)",
+      "artist": "Willie Nelson with Ray Charles",
+      "has_synced": true,
+      "path": "select/03_Seven_Spanish_Angels_(with_Ray_Charles)_Willie_Nelson_with_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heart 2 Heart (feat. Meek Mill, Arin Ray, Rose Gold)",
+      "artist": "YG feat. Meek Mill, Arin Ray & Rose Gold",
+      "has_synced": true,
+      "path": "select/04_Heart_2_Heart_(feat._Meek_Mill,_Arin_Ray,_Rose_Gold)_YG_feat._Meek_Mill,_Arin_Ray_&_Rose_Gold.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heart 2 Heart (feat. Meek Mill, Arin Ray & Rose Gold)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/05_Heart_2_Heart_(feat._Meek_Mill,_Arin_Ray_&_Rose_Gold)_YG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Les and Ray",
+      "artist": "Le Tigre",
+      "has_synced": false,
+      "path": "select/06_Les_and_Ray_Le_Tigre.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Madame Ray",
+      "artist": "The Long Blondes",
+      "has_synced": true,
+      "path": "select/07_Madame_Ray_The_Long_Blondes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Neon Ray",
+      "artist": "Lunatic Calm",
+      "has_synced": false,
+      "path": "select/08_Neon_Ray_Lunatic_Calm.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Old Town Road (Remix) (feat. Billy Ray Cyrus)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/09_Old_Town_Road_(Remix)_(feat._Billy_Ray_Cyrus)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Uncle Ray",
+      "artist": "Looper",
+      "has_synced": false,
+      "path": "select/10_Uncle_Ray_Looper.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feeling So Real (Ray Keith remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/11_Feeling_So_Real_(Ray_Keith_remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kay-Ray-Ku-Ku-Ko-Kex",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/12_Kay-Ray-Ku-Ku-Ko-Kex_múm.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ray of Light",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/13_Ray_of_Light_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ray of Light (Derek Howell mix)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/14_Ray_of_Light_(Derek_Howell_mix)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sudden Ray of Hope",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/15_Sudden_Ray_of_Hope_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Girl With X-Ray Eyes",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": true,
+      "path": "select/16_The_Girl_With_X-Ray_Eyes_Noel_Gallagher's_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Girl with X-Ray Eyes",
+      "artist": "Noel Gallagher’s High Flying Birds",
+      "has_synced": true,
+      "path": "select/17_The_Girl_with_X-Ray_Eyes_Noel_Gallagher’s_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Celtic Ray",
+      "artist": "Van Morrison",
+      "has_synced": false,
+      "path": "select/18_Celtic_Ray_Van_Morrison.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Gamma Ray (edited version)",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/19_Gamma_Ray_(edited_version)_Gamma_Ray.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ray",
+      "artist": "TOC",
+      "has_synced": false,
+      "path": "select/pl_01_Ray_TOC.txt"
+    }
+  ]
+}
